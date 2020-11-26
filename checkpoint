@@ -1,0 +1,2 @@
+model_checkpoint_path: "Lenet_with_Dropout"
+all_model_checkpoint_paths: "Lenet_with_Dropout"
